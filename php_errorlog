@@ -1,0 +1,175 @@
+[23-Feb-2019 03:41:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/search.php(20): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[23-Feb-2019 03:41:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/login-company.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[23-Feb-2019 03:41:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/login-candidate.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[23-Feb-2019 03:41:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/register-candidate.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[23-Feb-2019 03:41:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/register-company.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[05-Mar-2019 13:41:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/login-candidate.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[05-Mar-2019 13:41:02 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/login-company.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[05-Mar-2019 13:41:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/register-candidate.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[05-Mar-2019 13:41:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/search.php(20): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[05-Mar-2019 23:19:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/register-company.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[08-Mar-2019 17:54:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/login-candidate.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[08-Mar-2019 17:54:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/login-company.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[08-Mar-2019 17:54:42 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/register-candidate.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[08-Mar-2019 17:54:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/search.php(20): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[09-Mar-2019 12:06:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/register-company.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[10-Apr-2019 04:01:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/login-candidate.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[10-Apr-2019 04:01:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/login-company.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[10-Apr-2019 04:01:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/register-candidate.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[10-Apr-2019 04:01:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/search.php(20): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[10-Apr-2019 12:06:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/register-company.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[28-Apr-2019 21:08:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/search.php(20): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[29-Apr-2019 14:27:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/register-candidate.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[30-Apr-2019 05:00:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/login-company.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[30-Apr-2019 09:39:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/login-candidate.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[30-Apr-2019 12:38:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/register-company.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[11-May-2019 01:55:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/search.php(20): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[11-May-2019 03:04:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/login-candidate.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[11-May-2019 04:30:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/login-company.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[11-May-2019 04:56:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/register-candidate.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[12-May-2019 03:54:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/register-company.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[16-May-2019 02:33:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/login-candidate.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[16-May-2019 02:33:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/login-company.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[16-May-2019 02:33:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/register-candidate.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[16-May-2019 02:34:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/search.php(20): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
+[18-May-2019 03:36:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/theguard/public_html/myjob/inc.php:10
+Stack trace:
+#0 /home/theguard/public_html/myjob/register-company.php(3): include()
+#1 {main}
+  thrown in /home/theguard/public_html/myjob/inc.php on line 10
