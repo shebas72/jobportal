@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="scootApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="scootApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="scootApp" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="scootApp" class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title page-title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Chrome for Android theme color -->
+    <meta name="theme-color" content="#e5202d">
+    <meta name="fragment" content="!">
+    <base href="/client/">
+    <!-- bower:css -->
+    <!-- endinject -->
+    <!-- inject:css -->
+    <link rel="stylesheet" href="styles/styles.min.css">
+    <!-- endinject -->
+    <script>
+        window['_fs_debug'] = false;
+        window['_fs_host'] = 'www.fullstory.com';
+        window['_fs_org'] = 'WVRZ';
+        (function(m,n,e,t,l,o,g,y){
+          g=m[e]=function(a,b){g.q?g.q.push([a,b]):g._api(a,b);};g.q=[];
+          o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
+          y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
+          g.identify=function(i,v){g(l,{uid:i});if(v)g(l,v)};g.setUserVars=function(v){FS(l,v)};
+          g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;FS(o,v)};
+          g.clearUserCookie=function(d,i){d=n.domain;while(1){n.cookie='fs_uid=;domain='+d+
+          ';path=/;expires='+new Date(0);i=d.indexOf('.');if(i<0)break;d=d.slice(i+1)}}
+        })(window,document,'FS','script','user');
+    </script>
+    <link rel="shortcut icon" href="//www.skootjobs.com/wordpress/wp-content/themes/scootwp/assets/images/favicon.ico" type="image/ico" />
+</head>
+<body ng-controller="scootMainController">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MH27B3"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MH27B3');
+</script>
+<!-- End Google Tag Manager -->
+
+<!--[if lt IE 7]>
+<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+<header id="header">
+  <div navigation></div>
+</header>
+<toaster-container toaster-options="{'time-out': 3000}"></toaster-container>
+<toaster-container toaster-options="{'time-out': 0, 'position-class': 'toast-center', 'toaster-id': 2}"></toaster-container>
+<div class="body-wrap relative">
+    <scoot-loading></scoot-loading>
+    <div ui-view></div>
+</div>
+<footer id="footer">
+    <div footer></div>
+</footer>
+<!-- angular:js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.7/angular.min.js"></script>
+<!-- endinject -->
+<!-- bower:js -->
+<script src="scripts/vendor.min.js"></script>
+<!-- endinject -->
+<script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=true&libraries=places&language=en-US"></script>
+<script src="//static.intercomcdn.com/intercom.v1.js"></script>
+<script type="text/javascript" src="//platform.linkedin.com/in.js">
+    api_key: 77p7siy5v5qdv4
+    authorize: true
+</script>
+
+<!-- app:js -->
+<script src="scripts/app-main.min.js"></script>
+<!-- endinject -->
+<!-- inject:js -->
+<script src="scripts/app.min.js"></script>
+<!-- endinject -->
+<!-- modules:js -->
+<script src="scripts/angular-confirm.js"></script>
+<script src="scripts/angular-wysiwyg.js"></script>
+<script src="scripts/hd-confirm.js"></script>
+<script src="scripts/datepicker/angular-datepicker.js"></script>
+<script src="scripts/vaRecorder/VIRecorder.js"></script>
+<script src="scripts/vaRecorder/ngCamRecorder.js"></script>
+<script src="scripts/vaRecorder/recorder.js"></script>
+<script src="scripts/vaRecorder/recorderWorker.js"></script>
+<script src="scripts/vaRecorder/whammy.js"></script>
+<!-- endinject -->
+<!-- services:js -->
+<script src="scripts/lb-services.js"></script>
+<!-- endinject -->
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59690913-3', 'auto');
+  //ga('send', 'pageview');
+
+</script>
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '366613390196014');</script>
+</body>
+</html>
